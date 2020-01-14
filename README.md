@@ -1,19 +1,17 @@
-## Welcome to GitHub Pages
+## WELCOME TO THE KODER'S WORLD!
 
-You can use the [editor on GitHub](https://github.com/thekarankumar/thekarankumar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the Koding skills very easily through GITHUB. Why fear when Koding is here!!
+Mark your attendance and get started with Koding!!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### I'M A HACKER!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Be aware!! 
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+Follow my instructions!
+# Unlock your device.
+## Open the github.
+### Mark your attendance first!!
 
 - Bulleted
 - List
@@ -26,12 +24,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### MY WORLD HAS MORE KODINGS!! WANT TO KNOW THEM?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thekarankumar/thekarankumar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Connect With Me!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can connect with me on GITHUB! Check out "thekarankumar" !
